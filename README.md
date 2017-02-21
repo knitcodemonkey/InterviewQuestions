@@ -87,8 +87,26 @@ These are general questions. Feel free to use any language you prefer, including
 * What is the difference between `==` and `===`?
 
 ### MySQL
+* How comfortable are you with MySQL / SQL?
+* What is the difference between MyISAM and InnoDB?
+* How can you tell if a query is using an index?
+* Using this Database Tables printout:
+* Query for a list of users. Return their id's and their first names.
+* Write a query that returns the number of comments for article 1234.
+* Write a query that returns the top 10 articles with the most comments.
+* Using this Code Samples printout:
+* What is wrong with the code in sample 1?
+* What is wrong with the code in sample 2?
+* What is a trigger?
+* What is a transaction?
+
 ### MongoDB
+* Search a collection for documents that contain an 'id' of '1234'.
+* What is a Map Reduce?
 
-
+### Git/Github/SVN
+* How do you work on your section of code without interfering with the rest of the team?
+* How do you create a new git repository?
+* How do you handle merge conflicts?
 
 
