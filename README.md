@@ -31,7 +31,7 @@
 * When I google you, what will I find?
 * What are your hobbies outside of work?
 * Tabs or spaces? But wait... how many, and for which language?
-* Do you attend any meetups? Why?
+* Do you attend any meetups? Which ones? Why?
 
 ### Education
 * What is your learning style? (hearing, doing, writing, reading, etc)
@@ -91,12 +91,12 @@ These are general questions. Feel free to use any language you prefer, including
 * What is the difference between MyISAM and InnoDB?
 * How can you tell if a query is using an index?
 * Using this Database Tables printout:
-* Query for a list of users. Return their id's and their first names.
-* Write a query that returns the number of comments for article 1234.
-* Write a query that returns the top 10 articles with the most comments.
+    * Query for a list of users. Return their id's and their first names.
+    * Write a query that returns the number of comments for article 1234.
+    * Write a query that returns the top 10 articles with the most comments.
 * Using this Code Samples printout:
-* What is wrong with the code in sample 1?
-* What is wrong with the code in sample 2?
+    * What is wrong with the code in sample 1?
+    * What is wrong with the code in sample 2?
 * What is a trigger?
 * What is a transaction?
 
@@ -109,4 +109,17 @@ These are general questions. Feel free to use any language you prefer, including
 * How do you create a new git repository?
 * How do you handle merge conflicts?
 
-
+## Scrum
+* here anything you think is missing from Scrum?
+* When estimating, what do points indicate?
+* What challenges have you faced working with a Scrum team?
+* Give me an overview of a retrospective meeting.
+* What does a story look like?
+* How might you help a team find a strong sense of purpose?
+* What types of dysfunction might you encounter on a team? (5 dysfunctions of a team)
+* How would you deal with those dysfunctions?
+* How would you encourage everyone to openly express their opinions?
+* How might you help the team identify positive and negative changes during retrospectives?
+* How would you help the team to find techniques to help them be more collaborative?
+* How would you help and encourage healthy conflict during team meetings?
+* Do a fake sprint planning of a snow day; clear the snow from a big box store.
