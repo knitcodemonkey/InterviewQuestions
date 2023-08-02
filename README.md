@@ -46,10 +46,12 @@
 ## Technical 
     
 ### HTML
+
 * What does a doctype do?
 * What is the difference between cookie, sessionStorage, and localStorage?
 
 ### CSS
+
 * CSS Vanilla
     * What is the difference between a class and an ID in CSS?
     * Describe z-index and what it does.
@@ -58,9 +60,11 @@
     * What does `{box-sizing: border-box; }` do?
       
 * SCSS / SASS / LESS
+* 
     * What is your favorite css compiler?
     
 ### Programming Tests
+
 These are general questions. Feel free to use any language you prefer, including pseudo code
 * Convert a list of comma-separated words into an array (one,two,three,red,yellow,green)
 * How would you strip whitespace from a string?
@@ -68,25 +72,30 @@ These are general questions. Feel free to use any language you prefer, including
 * Given an array of 5 words, sort it by the longest word. 
 
 ### Testing
+
 * What testing frameworks have you used?
 * Define unit, functional, and system tests.
 
 ### HTTP
+
 * What is the difference between GET and POST?
 * What is a cookie?
 
 ### Javascript
+
 * What is the difference between an undefined and a null variable?
 * Can you explain AJAX?
 * What javascript frameworks and libraries have you used?
 * What is the difference between `var` and `let` when declaring a variable? 
 
 ### PHP
+
 * What is a php session and how do they differ from cookies?
 * How do you sanitize user data for a call to exec?
 * What is the difference between `==` and `===`?
 
 ### MySQL
+
 * How comfortable are you with MySQL / SQL?
 * What is the difference between MyISAM and InnoDB?
 * How can you tell if a query is using an index?
@@ -101,15 +110,18 @@ These are general questions. Feel free to use any language you prefer, including
 * What is a transaction?
 
 ### MongoDB
+
 * Search a collection for documents that contain an 'id' of '1234'.
 * What is a Map Reduce?
 
 ### Git/Github/SVN
+
 * How do you work on your section of code without interfering with the rest of the team?
 * How do you create a new git repository?
 * How do you handle merge conflicts?
 
 ## Scrum
+
 * here anything you think is missing from Scrum?
 * When estimating, what do points indicate?
 * What challenges have you faced working with a Scrum team?
@@ -123,3 +135,7 @@ These are general questions. Feel free to use any language you prefer, including
 * How would you help the team to find techniques to help them be more collaborative?
 * How would you help and encourage healthy conflict during team meetings?
 * Do a fake sprint planning of a snow day; clear the snow from a big box store.
+
+## Team Sell
+
+[Team Sell Interview Questions](https://github.com/knitcodemonkey/InterviewQuestions/blob/master/team_sell_interview.md)
